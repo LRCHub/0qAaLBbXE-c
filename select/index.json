@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "New Romantic Sailors",
+  "base_artist": "Guilty Kiss",
+  "createdAt": "2025-12-10T13:17:39.952514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "New Romantic Sailors",
+      "artist": "Guilty Kiss",
+      "has_synced": true,
+      "path": "select/01_New_Romantic_Sailors_Guilty_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "New Romantic Sailors REMIX",
+      "artist": "Guilty Kiss",
+      "has_synced": true,
+      "path": "select/02_New_Romantic_Sailors_REMIX_Guilty_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "New Romantic Sailors(Off Vocal)",
+      "artist": "Guilty Kiss",
+      "has_synced": true,
+      "path": "select/03_New_Romantic_Sailors(Off_Vocal)_Guilty_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "New Romantic Sailors (Remix)",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/04_New_Romantic_Sailors_(Remix)_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "New Romantic Sailors (Off Vocal)",
+      "artist": "Guilty Kiss",
+      "has_synced": true,
+      "path": "select/05_New_Romantic_Sailors_(Off_Vocal)_Guilty_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "New Romantic Sailors REMIX",
+      "artist": "Guilty Kiss[桜内梨子(CV.逢田梨香子)、津島善子(CV.小林愛香)、小原鞠莉(CV.鈴木愛奈)]",
+      "has_synced": true,
+      "path": "select/06_New_Romantic_Sailors_REMIX_Guilty_Kiss[桜内梨子(CV.逢田梨香子)、津島善子(CV.小林愛香)、小原鞠莉(CV.鈴木愛奈)].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "New Romantic Sailors",
+      "artist": "Guilty Kiss",
+      "has_synced": false,
+      "path": "select/pl_01_New_Romantic_Sailors_Guilty_Kiss.txt"
+    }
+  ]
+}
